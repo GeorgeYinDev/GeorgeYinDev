@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GeorgeYinDev
-- 👀 I’m interested in Corporate IT processes, programming languages, and tech devices (Raspberry Pis, etc)
-- 🌱 I’m currently learning Python and Azure services.
-- 💞️ I’m looking to collaborate on identity management and data analytics projects.
+- Hi, I’m @GeorgeYinDev
+- I’m interested in Corporate IT processes, programming languages, and tech devices (Raspberry Pis, etc)
+- I’m currently learning Python and Azure services.
+- I’m looking to collaborate on identity management and data analytics projects.
 - 📫 How to reach me ...
 
 <!---
